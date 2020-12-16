@@ -1,5 +1,4 @@
 # Electro-Chlorinator
-Arduino code for  the Electrochlorination device by Tim Erwin
 
 This Arduino code controls a device that produces sodium hypochlorite (bleach) by electrolosys of salt water. This process is known as electrochlorination.
 
